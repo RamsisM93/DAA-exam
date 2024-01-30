@@ -46,7 +46,7 @@ Jupyter Notebook
 
 ### Screenshot of the Application
 
-![Screenshot of the page](N/A)
+![Screenshot of the result](image.png)
 
 ## Questions
 
