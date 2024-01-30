@@ -4,7 +4,6 @@
 
 • [Description](#description)
 • [Usage](#usage)
-• [Installation](#installation)
 • [Technologies](#technologies)
 • [Test](#test)
 • [Links](#links)
@@ -19,24 +18,16 @@ This repository includes my solution to the Practical Exam component of DataCamp
 
 Feel free to pull the repo and use for your educational purposes.
 
-### Installation
-
-To install the application you need to run the following command line:
-
-```bash
-N/A
-```
-
 ### Technologies
 
-SQL
-PostgreSQL
-Python
+SQL  
+PostgreSQL  
+Python  
 Jupyter Notebook
 
 ## Links
 
-### Link to the Deployed Application
+### Link to the Deployed Analysis
 
 [Data Analyst Associate Practical Exam Solution Deployed Webpage](https://RamsisM93.github.io/DAA-exam/)
 
@@ -44,7 +35,7 @@ Jupyter Notebook
 
 [Data Analyst Associate Practical Exam Solution Github Repo](https://github.com/RamsisM93/DAA-exam/)
 
-### Screenshot of the Application
+### Screenshot of the Analysis
 
 ![Screenshot of the result](image.png)
 
